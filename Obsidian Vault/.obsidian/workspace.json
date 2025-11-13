@@ -1,0 +1,668 @@
+{
+  "main": {
+    "id": "f1e54fdc20576fd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f33a10d1687cd9c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b26ba519f517bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stars/star activations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "star activations"
+            }
+          },
+          {
+            "id": "8807129bf4288382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stars/star activations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "star activations"
+            }
+          },
+          {
+            "id": "aa06f2e71cd4dd14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stars/sign cycles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sign cycles"
+            }
+          },
+          {
+            "id": "b3efb95473caed37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stars/inside degrees.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "inside degrees"
+            }
+          },
+          {
+            "id": "0325583e83357414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stars/degree films.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "degree films"
+            }
+          },
+          {
+            "id": "5948a306e471319b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stars/degree films.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "degree films"
+            }
+          },
+          {
+            "id": "7b0c4d32a48d2c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stars/star activations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "star activations"
+            }
+          },
+          {
+            "id": "3fe2d7fb029d0927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stars/Death.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Death"
+            }
+          },
+          {
+            "id": "0f8a1ee4970ab6cc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
+            "id": "c4fbd7d35f61ebac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "time"
+            }
+          },
+          {
+            "id": "b86c33554bb86b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moon Story.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Moon Story"
+            }
+          },
+          {
+            "id": "ba7c53cffdb6fad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the power of the truth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the power of the truth"
+            }
+          },
+          {
+            "id": "1d8ded15b39cd5aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Currently.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Currently"
+            }
+          },
+          {
+            "id": "0f6dade534cad90c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to capture a memory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to capture a memory"
+            }
+          },
+          {
+            "id": "ce1ce5e7fb7d8e59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to capture a memory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to capture a memory"
+            }
+          },
+          {
+            "id": "22eba146522fcdaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "writing done/the internet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the internet"
+            }
+          },
+          {
+            "id": "b8ac2df068a79153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "athens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "athens"
+            }
+          },
+          {
+            "id": "236d75abac02fe0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the creation of time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the creation of time"
+            }
+          },
+          {
+            "id": "6e931a8814f7e1b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the game of time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the game of time"
+            }
+          },
+          {
+            "id": "4b2e753dcf7dc10f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the game of time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the game of time"
+            }
+          },
+          {
+            "id": "d2003b1ce2e5b9b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 second portraits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30 second portraits"
+            }
+          },
+          {
+            "id": "62ef84cbc3499ce2",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "40de7fe4e596bab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shalagh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shalagh"
+            }
+          },
+          {
+            "id": "5471dad888cddfd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "script/reflections and numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "reflections and numbers"
+            }
+          },
+          {
+            "id": "5865fd82beb497b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the time pattern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the time pattern"
+            }
+          },
+          {
+            "id": "89210f0ee6d2294b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "star time/planets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "planets"
+            }
+          },
+          {
+            "id": "7bce8b22deaee28d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "star time/planets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "planets"
+            }
+          },
+          {
+            "id": "c0937e4f364624f5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
+            "id": "045964ebec494fb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the game of time story.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the game of time story"
+            }
+          },
+          {
+            "id": "06824c8922a1c149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the numbers effect.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the numbers effect"
+            }
+          },
+          {
+            "id": "56b1dd6b187ec302",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled 3.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 3"
+            }
+          },
+          {
+            "id": "69b8eeeb3dc3fd4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dg home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dg home"
+            }
+          },
+          {
+            "id": "773fbc41e99e4d27",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e10da7ba59a0d6be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the power of the truth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the power of the truth"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc3cd3e7e84d296f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdd5c31b0df7e5ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ad06d4e81820ba9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e0201c2082e3fcc5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3b595bc224378f92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "deff16d9637cf7b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3db06d766d06957b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f91f5b5a0950f349",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "stars/star activations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for star activations"
+            }
+          },
+          {
+            "id": "03fd23d4f0b2ef8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "reflections and numbers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from reflections and numbers"
+            }
+          },
+          {
+            "id": "bfb3f5c7bb5b53eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "241611f438651082",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "what are the creatures.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of what are the creatures"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "0b26ba519f517bd7",
+  "lastOpenFiles": [
+    "dg home.md",
+    "Untitled.base",
+    "Untitled 3.base",
+    "Untitled.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Untitled",
+    "shalagh.md",
+    "addressing a problem/Money Power and religion.md",
+    "the creation of time.md",
+    "the first stroke.md",
+    "the game of time story.md",
+    "the game of time.md",
+    "the infinity effect.md",
+    "the people.md",
+    "Transferred/the power of the truth.md",
+    "the process/the numbers effect.md",
+    "Transferred/why believe in other lives.md",
+    "Transferred/to capture a memory.md",
+    "Transferred",
+    "the time pattern.md",
+    "free art.md",
+    "star time/making less sense.md",
+    "star time/planets.md",
+    "star time/the moment we are born.md",
+    "star time/the greater system.md",
+    "star time",
+    "script/Note Book typed.md",
+    "script/a very unique world.md",
+    "script/reflections and numbers.md",
+    "letters.md",
+    "re film videos.md",
+    "website",
+    "P1010515.jpg",
+    "Untitled.canvas",
+    "canvas test.canvas",
+    "P1010312.jpg",
+    "P1010251.jpg",
+    "P1010289.jpg",
+    "ublUntitled.base",
+    "Protopia",
+    "plans/master grid.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled 3.canvas"
+  ]
+}

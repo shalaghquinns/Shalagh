@@ -1,0 +1,51 @@
+
+Aries: 1920s and 30s' We are stung with an entirely new impulse to take action as the divide between the world becomes too hot to handle. Overtaken by an impulse to get on with future and weaving into everyday. Working to take our passion from its wild frenzy into a focus that can reorient itself to a new life force. 
+
+Taurus: Mid 1930s The earth is alive with new design and potential visions for the future. We participate with the  electric state and impulse for the future. The vision of a new earth is an obvious and inevitable outcome and no one can deny it is being birthed a new way of being. 
+
+Gemini: 1930- 40's We are persuaded into so many directions and suffer from instability. So many streams of expression and new developments arrive, often leading to destruction, and lack of foundation. Those who do not get swamped in this energy, can use it to recreate what is necessary and live their dreams in full appreciate of the process. 
+
+Cancer: 1940's 1950's - New design for a way of life emerging through the home life. We central our values and remain safe in the midst of chaos. Rural farm life becomes suburbs and the growth of the individual goes up against tight limitations and social requirements. Surviving multiple ego deaths equips us with a cantering force to sustain future life currents coming through. 
+
+Leo: 50-60s’ life is flourishing with the free expression of the individual as the driving force.  Celebrity culture begins to flourish and cartoons become a dominate creative expression. Those able to get over the identity facade and endure the ego blow,  can emerge free from discouragement and be an embodiment of freedom for all.
+
+Virgo: 60’s We get to work tending the seeds for a new future. Worlds within worlds that had no past currency began to prosper. Everyone is saturated with the feeling of needing to make it work and this motivates much of the generation to prove themselves. Enabling a discernment at each stage to know where we will go right, and where we can go wrong. Lovingly able to draw forth in others what is most vital. 
+
+Libra: 60’s-70’s  Wondrous life streams burst forward for the first time generating their own collective currency. A renaissance of freely and imaginative worlds, coming to life. A feeling permeates that none of this can last but its effects were timeless and inwardly planted. These individuals carry high idealism and stark realism. Those who can hold to this vision steady can carry the seed for generations to come. 
+
+Scorpio: 70’s -80’s deep unseen forces and fears stop progression and leave a barren empty sense to the world. The discovery of new cosmic forces stimulates the awareness of higher forces and unseen potential.  Individuals who are not consumed by the collective karma become adept in navigating darkness and emerge with the power of a mission that is unable to be destroyed. 
+
+Sag: Mid 80’s Destructive forces escalate and seek to take the individual trust and turn into a compulsive fear reaction. Feeling unsupported and alone we are left to each personally discover a new stream of trust inside. We sense there is new possibility and then gradually lay its foundation. Alchemizing the discouragement the generation faces by living on the edge of old worlds, and the cusp of new ones.
+
+Capricorn: 80’ and 90’s Life on earth becomes a multidimensional organism and many progressive streams open to address the visions and many rising concerns. Darkness attempts to hide our individual power by drowning us in mechanization, however this generation is trained to sift out the truth and use the problems at their food to flip the whole thing around. 
+
+Aquarius: 90's to 2000's The visions becomes expressed for evolution that with long range potential. The counterforces are just as destructive turning each stream of potential into systematic programming that cleverly turns everyone against themselves and each other. This generation goes through the process of eventually learning they must give into a higher power of what is essential needed. 
+
+Pisces: early 2000's Everything begins surfacing that was under collective manifestation. We are drenched in drama of evolving. All has come to surface, many currents with vengeance. Those who can tune this suffering become equipped with the depths of the inner world, and can carry this forward to ignite a world grown from inside the senses. 
+
+houses 
+how we use our life force energy and how we see ourself and what we are meant to become 
+
+1st: Charged with a self awareness that beats us knowingly. Our individual uniqueness sees itself  clearly and untangled. Each moment is met without pre existing limitations to open perspectives and bring forth a vision whats beyond possible. If inverted towards self worship, we hold a specialized immunity that seeks to impose its status and excerpt personal authority. Our power lies in using our individual focus to bless and redeem the whole.  
+
+2nd: We see ourself in pragmatic form and  a working energy, and seek to embody this process. Learning to integrate living consciousness into physical reality. Viewing the self as a utility with many pieces and fragments that lack foundation or unified truth. Events which contain the seeds of a deeper purpose bring a greater participation with the unknown. Eventually the world turns into having extraordinarily richly dimensions, seeing from 2d to 3d. 
+
+3rd: We participate in what's familiar and comforts us, to keep ourself hiding from having to move from an inward stance. Under our surface awareness there are vibrant passages coming alive and continually being revisited to reveal new information. We're meant to follow this uncovering them to be met with new inner world around each corner. If we hold onto knowness we become characterized and reinforcing of a surface identity and ideal image. 
+
+4th: Sensing the vast open net of consciousness and deeply aware of many terrible motivating factors. We side with the fears and shy away from seeing too much, while subconsciously finding our deepest courage. It is a great responsibility to see these depth, so we form a protective bubble of security, however Dark forces penetrate from below, to wake us up and tear away our foundation. Learning to trust as we become open vessels that sense the truth and infinite wonders available to fully fathom this reality. 
+
+5th: Cultivating a space to move from the personality standards and image of false selfhood. Sensing the difference between the perceived exterior and what is true and alive. Drawn to recreate ourself from inside to reveal our creative power, for we are up against a temptation to play into socially acceptable roles. Entering the journey of shedding the external results to find our internal power. Keying into the intuitive arts and finding space for truth too manifest vision. 
+
+6th: We are consumed by the awareness of a mentally fixated society and are working underneath to alter and form this programming. In the process we select and narrow down our perspective until it becomes a self reinforcing loop of ideas that keep us trapped in a pragmatic view point where our special track weighs heavy. When we can distill our perspective from being a me to a we then the most to essential values are revealed and our special inner knowing can work to regenerate the whole.
+
+7th: Through the other we see our truth and our ability to create an authentic connections mirrors our connection to self. Learning to meet the self honestly by moving though all images of how a relationship is supposed to look. Learning not to avoid ourself with expectations to make room for a deeper truth that needs no fascinating divisions to keep each other entertained. Opening to unpredictable strings so the truth of self meets the world - a clear naked reflection. 
+
+8th: Knowing there is a part of our self that is not fully tapped and seeking to break through limitations to reunite us with the deep earth. Sensing the undercurrent of whats preventing awareness from arising. Becoming a fully dimensional individual by surrendering ideas of what is not possible and entering into our vision of self overcoming. Seeing all the delusions as mini miracles, that made way for the one great truth. 
+
+9th: We've seen and known great depth and heights, and are playing into our many sides so we can discover our inner most sensibility. We fall for it, grow through it, and uncovered it until the veil is thin and our awareness pierces through the experience of form. We are impressed with our journey, however the final stage is getting rid of our self importance and magnificent vision, so a virgin vantage point free of attachment can arise. 
+
+10th: Holding firm the vision of what we must do, and hiding it under until it's prepared. Laying the foundation takes us on a journey with many unexpected turns that sheds our self justifying nature so we can discover whats truly needed for humanity. Staying grounded while we face the immense barriers that test our truth, teaching us to tune inwards towards a way of seeing that is independent of any events. 
+
+11th: Navigating beyond memory towards a sphere without any walls and into a completely liberated conscious way of seeing. Faced with a lack of foundation and many hurdles attempting to remove barriers to reveal the freedom we feel to be true. Aligning the body towards a greater purpose, opens a pathway towards a conversation with divine intelligence and a witness consciousness that can grasp great depths. 
+
+12th: Underneath our human ignorance lies a barrier of fear which few are granted permission to  permeate. Transcending the illusion of safety to being the one who holds the crystalline awareness to see what is needed to move forwards. Sometimes discouraged by being the only one who feels the gravity of the situation and how to alchemize it. When we swims with our depths we are given permission and acknowledgment of the resources stored in the regenerative power of all lost hope.

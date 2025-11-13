@@ -1,0 +1,45 @@
+we went from dreaming into a beautiful world, into dreaming into the world illusion, and becoming the star the world wanted from us, not the way we wanted the world to be. we are to caught into the celebrity fetish, we believe if we can shine individually. 
+
+if you are true to yourself, there is no world that can mess you up there is no world that can stop you, thats how it really is.
+the future is stying that your story, your myth, is about to be exploded into our story our myth. 
+to forget how to foregt and remember how to remember 
+were finding our earth legs, allowing us to be here as we truly are. 
+learn to descern past their own doubt, nothing will stop us but our own doubt. then you can see who is true, and apperance are realit and sensations are all we get 
+
+when you become you unite with all of life, it is not a consciousness thing, you are claimed by life, ad everything become. 
+what would it be like to actually be here? this is the greatest adventure, no one has done it, not in this world not in any, this body is opening to something that has never ever happened before. inhabiting the yes, and not being able to get away from ourself. lions gate is the marking of our arrival, our tmeless arrival. 
+how do I surrender the judgemnt of others? those who have not incarnated? 
+
+trapathy tapes 
+washington yestersay
+mage over substaince 
+
+I do create art with the intention to look good, 
+I create to experience trusting a process, 
+to express that creation is something happening inside us 
+not an external image,
+I do not create to be liked or to make money 
+I create because I want to remember how to follow an instinct 
+to follow the part I cant explain 
+
+virgo 
+
+
+virgo is the purity 
+the world begins today 
+puts nothing in the way of reality, a fair witness, acute conciseness, sharp pointed, 
+sp intent on serving the whole she cant do anything else. she can see all the patterns. 
+Virgo is able to see what she is capable of. 
+guaurding the subtile facualities 
+
+avid imagination strage lack of responsiveness to mystery, 
+so gratified by being able to do things right and well that they forget 
+
+
+vesta: grasping toward security and safety if a blind fashion, grasping at the chance to make the external fill in for the internal. Itchy and super limited state of mind where we grasp at fragments, and don't put it together. Just want to be reassured that we are doing the job even when your'e not, safe and sound, and covers up 
+
+Juno: what happens to the outer mind when it becomes so adaptive to the world as it is on the outer most levels that we becomes automatic repetitive, and living through habits, who are amnesic, caught in a vacuum, and we don't have any sense  of what is happening. there is no self awareness, an forgetting that we have resources that we can call upon. 
+
+ceres : Organizing your whole life around being legitimate and acceptable in any and all situations. Preferably being respected and honoured as an intergral link in the world ego, and daily operation in all of its glory. 
+
+Pallas: Picking up on clue and cues that add up on the conspiracy theories. Following the cues is following pallas and following an anti life vantage point leading us astray. Easily goes astray because we get this sense that there is a sinister energy at work in the world, which is true, and we become plagued and trapped in it, and become a perpetrator. All because there is something about negative mind states and states of being that is much more compelling than anything beautiful and harmonious. 

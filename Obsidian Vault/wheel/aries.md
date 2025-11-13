@@ -1,0 +1,23 @@
+Libra Earth: Submerged in the collective undercurrent and feeling like there is no room for any new individual. This energy is hard to take, and means we meet our connections with an undercurrent infused with anger and a drive to remove all closeness. 
+
+Aries Sun: We are infused with a spark and direction forward that blows away the clusters of everything one cannot meet. The gates are open for a new consciousness to witness its aliveness. Taking this star all the way is to set this a fresh pace to allow others to be fully and unapologetically themselves.
+
+Aries moon: Consciousness surfaces in its primal expression and instinctual reactions display the wants and needs run down opposite streams. She travels upstream through a lens of inadequacy to create internal strength. This consciousness goes as far as it can testing the waters of reactions and  boundaries to see how far the experiences can expand. When this stream has finally proven to itself the world is not against it, a weight is lifted.
+
+Aries Mercury: Seeking opportunity discovers subtler current. 
+
+He can sense the opportunity of the world and plays into the spectrum of interaction from every side, testing the limits of what he can get away with. Missing the subtle current of interaction that comes from deep listening and gradually opening to lean on the others perspective instead of relying so heavily on own conscious action. Initial instinct is to remain the boss and attempt to grasp the moment, but the other teaches to meet life with a freeness and vulnerability.
+
+Aries Venus: She sees herself in the other, and is seeking to bring herself out though the other. She is constantly discovering  the feeling the other creates in her own heart. The playground of relationships reveals much, as long as the other can stand its ground and give her the space to dance around, if the other is just recitable as she, she will recognize her loneliness. That she is seeking a piece of herself in the other. She will join into a relationship with herself, to discover the missing piece she was seeking in the other.
+
+Aries Mars: He is aware of his concerns and directs them forward to widen the space. He is learning to integrate the concerns of the world with the concerns of self. When tuned in he can use this energy to widen the social sphere for everyone, but when he feels like his ideas are not respected by the world, he turns to dominance and aggression. Here it is clear he is his own worst enemy, and is learning to respect his own ideas. He doesn't need approval to be himself, but he does need to approve himself, to be approved by others.
+
+Aries Jupiter: His consciousness has a dualistic perspective, dividing the world into right and wrong, participating in both sides, and being determined to come out on top being right. The internal drama is hot, and he plays out his reason why hard. As much as he reveals is the good guy, will be as much as is obstructed to reveal a contradicting perspective.  He is learning to see in between the lines .
+
+Aries Saturn: He is a striking force towards being vibrantly present and has a piercing desire to move anything that gets in the way of the truth unfolding.Sharp attention to what ever and is meant to move through whatever is causing its disturbance. He will remove it uncompromisingly. Ultimately what is coming through is an ultimate reckoning with defeat. Underneath this placement is a well of karmic experience events that have devastated a spirit. He will have little acknowledgement for any such matter due to the focus on the present. This is the journey where the mental focus is tested tried and strengthened to move past any doubts of a past swamped in depths.
+
+Aries Uranus: World and selfs born and meet together to move all their energy in one specialized motion. The highest use of this energy is tapping into a steady stream of forces that is about to bring to life what is new and different, in the moment and in the extremes.
+
+Aries Neptune: 1860’s A serge to discover emerges, and the sense that the old structures are becoming powerless pushes a break through to a new living future. Need to reform, advocate for passion, many streams, one chosen beacon to represent destiny. Counterforce amplifies own own journey over others, trampling opponent.
+
+Aries Pluto: 1820-50’s A world centered around personal life yields pioneers that present the possibility of a new world under the disguise of characters which appear out of context. To grasp that the human experience encompasses many dimensions and possibilities, had not yet been played upon. Intense drive towards forward motion and future current. Seeing open possibility in a hard headed world where everything alive is on the surface.
