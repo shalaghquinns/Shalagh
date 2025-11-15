@@ -1,13 +1,9 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "My Obsidian Site"
-theme = "newstyle"
+theme = "ananke" # <--- השם המקורי והנכון
 
-# הגדרת נתיבי ה-CSS וה-JavaScript
-# זה קריטי כדי ש-Ananke יוכל למצוא את קבצי העיצוב (assets)
-assetDir = "themes/newstyle/assets"
-
+# הגדרות עיבוד משאבים (חובה לתבנית)
 [markup]
-  # מאפשר ל-Hugo לרנדר HTML גולמי וקישורים בתוך קבצי Markdown (נחוץ לעיתים קרובות עבור Obsidian)
   [markup.goldmark.renderer]
     unsafe = true
