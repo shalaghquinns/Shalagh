@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poems on My Obsidian Site</title>
+    <link>https://example.org/poems/</link>
+    <description>Recent content in Poems on My Obsidian Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/poems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.org/poems/a-love-for-isreal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/poems/a-love-for-isreal/</guid>
+      <description>&lt;p&gt;grows though hate,&#xA;grows through challenge,&#xA;grows through the people&#xA;who cannot understand this with their mind&#xA;grows as the branches of the darkness intertwine&#xA;my love grows with this land as my hearts set of fire,&#xA;my love grows through your love like the voice of a choir&lt;/p&gt;&#xA;&lt;p&gt;love moves though me like you are the wind&#xA;ill move for you, Ill take it in,&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.org/poems/quotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/poems/quotes/</guid>
+      <description>&lt;p&gt;a future where everyones famous&#xA;the only reason we admire fame is because it means someone came to earth, and did what nobody else could do. They did themselves and shared something we hadn&amp;rsquo;t yet experienced. This is not going to be a very big deal in the future, this is the goal we aim for, a world where everyone has permission to do themselves and the world supports their growth.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

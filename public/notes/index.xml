@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on My Obsidian Site</title>
+    <link>https://example.org/notes/</link>
+    <description>Recent content in Notes on My Obsidian Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.org/notes/the-way-we-communicate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/notes/the-way-we-communicate/</guid>
+      <description>&lt;p&gt;always changes&#xA;we are always expanding on our ability to communicate&#xA;we have compressed that ability&#xA;in this time and space,&#xA;as we have simaltainously exanding on our capability&#xA;to communiate, we have lost parts of our nature,&#xA;and are having to regain them&#xA;we are having to rember that communicate&#xA;is not depenading on numbers&#xA;because what we have done&#xA;is created the sellable characters to eachother,&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.org/notes/transcribed-audio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/notes/transcribed-audio/</guid>
+      <description>&lt;p&gt;i have always been interested in piegons&#xA;and it come because of a fear of them,&#xA;I was terrifled of them in university because they&#xA;were all over the city&#xA;they would come out of no where,&#xA;and they were huddled, togther,&#xA;and their reallly the only animal that has domesticated thmselves in a city&#xA;there these wld animals and they found a way t take advantage of humans&#xA;and i feel that sort of a part of me that I have been scared of but I feel&#xA;inisde like im a freakin piegon,&#xA;I feel like this crazy wid animal,&#xA;thats been placed in this modern world,&#xA;and trapped inside this city&#xA;and im just sort of like colecting the scraps of it&#xA;as I go along, blindly through the city&#xA;like the piegons&#xA;and thats what this account is,&#xA;is about that experince&#xA;that I am a sleepy peigon in this world&#xA;a dream I am collecting and making up from inside of me,&#xA;as i go along in this sort of city&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.org/notes/what-doesnt-make-sense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/notes/what-doesnt-make-sense/</guid>
+      <description>&lt;p&gt;we don&amp;rsquo;t believe what doesn&amp;rsquo;t make sense&#xA;what doesn&amp;rsquo;t add up in our mind,&#xA;anything with gaps we can&amp;rsquo;t believe in,&#xA;which is to say that we believe we&#xA;we can think up how everything works,&#xA;or/and we cant believe in anything thats unknown,&lt;/p&gt;&#xA;&lt;p&gt;don&amp;rsquo;t say stuff that doesn&amp;rsquo;t make sense&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

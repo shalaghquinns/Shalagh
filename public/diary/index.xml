@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diaries on My Obsidian Site</title>
+    <link>https://example.org/diary/</link>
+    <description>Recent content in Diaries on My Obsidian Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/diary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.org/diary/a-world-at-war/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/diary/a-world-at-war/</guid>
+      <description>&lt;p&gt;what&amp;rsquo;s Israel been like?&lt;/p&gt;&#xA;&lt;p&gt;while I&amp;rsquo;ve been hear for just under 3 months,&lt;/p&gt;&#xA;&lt;p&gt;and am just beginning to understand the intensity.&lt;/p&gt;&#xA;&lt;p&gt;The truth is so complex and deeply woven into the systems and culture here. But it is not talked about, or recognized outwardly. The people seem to be facing an itch, and the itch is very real.&lt;/p&gt;&#xA;&lt;p&gt;when I first met dror I was scared to enter water so deep. It was scary at first to see into the problems he faced being Israeli, being jewish, and being the time. But this was just the beginning. Dror&amp;rsquo;s gift was his open heart to be able to welcome in all sides of the world. I realized later that this was a symptom of being exposed so many perspectives.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

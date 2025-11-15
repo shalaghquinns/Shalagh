@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Websites on My Obsidian Site</title>
+    <link>https://example.org/website/</link>
+    <description>Recent content in Websites on My Obsidian Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.org/website/30-second-portraits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/website/30-second-portraits/</guid>
+      <description>&lt;p&gt;why is the art free?&lt;/p&gt;&#xA;&lt;p&gt;*the art i is an expression of a trust&lt;/p&gt;&#xA;&lt;p&gt;i trust my hand on the paper,&#xA;I trust the people I meet&#xA;i trust in the value of what I create&lt;/p&gt;&#xA;&lt;p&gt;when I began offer the portraits for free&#xA;I was able to draw much more people&#xA;and I learned people often instinctually decided to donate&lt;/p&gt;&#xA;&lt;p&gt;I want to give you the option to define the value of the work&#xA;I want to give you the option to have a piece of art for free&#xA;I want to trust what i create will support me if I give it to the world&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
