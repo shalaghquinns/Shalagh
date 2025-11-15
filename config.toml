@@ -2,10 +2,3 @@ baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "My Obsidian Site"
 theme = "newstyle"
-
-[build]
-  # הגדרות שנוספו: מאפשרות ל-Hugo לעבד את Sass/SCSS של התבנית
-  [build.processing]
-    [build.processing.css]
-      enable = true
-      process = true
