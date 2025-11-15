@@ -1,7 +1,7 @@
 [build]
   publish = "public"
-  command = "hugo"
+  command = "hugo" # נשאיר את זה זמנית
 
 [context.production.environment]
-  # הגדרת גרסת Hugo - נשתמש בגרסה מודרנית יציבה
+  # הגדרת גרסת Hugo
   HUGO_VERSION = "0.121.1"
