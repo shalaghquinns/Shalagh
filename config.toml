@@ -1,9 +1,13 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "My Obsidian Site"
-theme = "ananke" # <--- השם המקורי והנכון
+theme = "ananke" # השם הנכון לאחר השינוי האחרון
 
-# הגדרות עיבוד משאבים (חובה לתבנית)
+# הגדרת נתיבי נכסים (Assets) ועיבוד CSS
+[build]
+  # מאפשר ל-Hugo למצוא את קבצי ה-Sass/CSS של התבנית
+  assetDir = "themes/ananke/assets"
+
 [markup]
   [markup.goldmark.renderer]
     unsafe = true
