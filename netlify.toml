@@ -1,7 +1,7 @@
 [build]
   publish = "public"
-  command = "hugo" # נשאיר את זה זמנית
+  command = "hugo"
 
 [context.production.environment]
-  # הגדרת גרסת Hugo
-  HUGO_VERSION = "0.121.1"
+  # הגדרת גרסת Hugo - הוספת "-extended" חיונית לבניית CSS/Sass של ערכת הנושא Ananke
+  HUGO_VERSION = "0.121.1-extended"
