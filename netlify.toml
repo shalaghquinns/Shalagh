@@ -3,5 +3,5 @@
   command = "hugo"
 
 [context.production.environment]
-  # הגדרת גרסת Hugo - הוספת "-extended" חיונית לבניית CSS/Sass של ערכת הנושא Ananke
-  HUGO_VERSION = "0.121.1-extended"
+  # תיקון שגיאת 404: Netlify מורידה אוטומטית את גרסת Extended אם רק מספר הגרסה נקי (0.127.0)
+  HUGO_VERSION = "0.127.0"
