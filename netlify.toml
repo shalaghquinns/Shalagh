@@ -3,5 +3,5 @@
   command = "hugo"
 
 [context.production.environment]
-  # תיקון שגיאת 404: Netlify מורידה אוטומטית את גרסת Extended אם רק מספר הגרסה נקי (0.127.0)
-  HUGO_VERSION = "0.127.0"
+  # תיקון תאימות: שימוש בגרסת Hugo 0.128.1 ומעלה, כפי שנדרש על ידי ערכת הנושא Ananke
+  HUGO_VERSION = "0.128.1"
