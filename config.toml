@@ -1,4 +1,4 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "My Obsidian Site"
-theme = "ananke"
+theme = "newstyle" # <--- השם החדש
